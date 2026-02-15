@@ -1,10 +1,11 @@
 # Hi, I'm Elouan 🐡
+📧 elouan.pulveric@gmail.com  
 
 👉 Check my latest projects!
 
 ## Currently Working On
 
-🧠 LSTM model for turbofan RUL prediction
-🃏 Tarot card game AI
+<p>🧠 LSTM model for turbofan RUL prediction</p>
+<p>🃏 Tarot card game AI</p>
 
-📧 elouan.pulveric@gmail.com  
+
