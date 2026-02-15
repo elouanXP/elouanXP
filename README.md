@@ -1,4 +1,4 @@
-# Hi, I'm Elouan 🐡
+# Hi, I'm Elouan
 📧 elouan.pulveric@gmail.com  
 
 👉 Check my latest projects!
