@@ -1,7 +1,7 @@
 # Hi, I'm Elouan 🐡
 📧 elouan.pulveric@gmail.com  
 
-👉 Check my latest projects!
+👉 Check out my latest projects!
 
 ## Currently Working On
 
