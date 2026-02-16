@@ -6,6 +6,6 @@
 ## Currently Working On
 
 <p>🧠 LSTM model for turbofan RUL prediction</p>
-<p>🃏 Tarot card game AI</p>
+<p>🃏 French tarot AI</p>
 
 
