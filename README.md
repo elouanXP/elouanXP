@@ -1,11 +1,12 @@
 # Hi, I'm Elouan 🐡
 📧 elouan.pulveric@gmail.com  
 
-👉 Check out my latest project!
+👉 Check out my latest projects!
 
 ## Currently Working On
 
-<p>🧠 LSTM model for turbofan RUL prediction</p>
+<p>🚁 Autonomous drone detection & tracking</p>
+<p>🧠 LSTM model for turbofan lifetime prediction</p>
 <p>🃏 French tarot AI</p>
 
 
